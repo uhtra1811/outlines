@@ -1,0 +1,24 @@
+.dark{
+	background-color: black;
+}
+
+.light{
+	background-color: white;
+}
+
+.blink{
+	background-color: gray;
+}
+
+.column{
+	display: flex;
+	flex-direction: row;
+}
+
+.box{
+	width: 60px;
+	height: 60px;
+	border: 5px solid;
+	border-color: gray;
+	margin-right: 15px;
+}
